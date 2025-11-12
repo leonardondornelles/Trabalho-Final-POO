@@ -53,7 +53,6 @@ public class Entrada extends VerticalLayout {
                 Notification.show("Estacionamento cheio", 3000,
                         Notification.Position.MIDDLE);
 
-
                 nomeUsuario.clear();
                 placaComboBox.clear();
 
@@ -68,7 +67,7 @@ public class Entrada extends VerticalLayout {
 
 
 
-            if (Estacionamento.carrosEstacionados.containsKey(placaComboBox.getValue())){
+            if (Estacionamento.carrosEstacionados.containsKey("p-" + placaComboBox.getValue())){
                 Notification.show("Este carro já está dentro do estacionamento", 3000
                 , Notification.Position.MIDDLE);
 
@@ -81,7 +80,7 @@ public class Entrada extends VerticalLayout {
                 return;
             }
 
-            if (Estacionamento.carrosEstacionados.containsKey(nomeUsuario.getValue())){
+            if (Estacionamento.carrosEstacionados.containsKey("n-" + nomeUsuario.getValue())){
                 Notification.show("Este usuário já possui um veículo estacionado", 3000
                         , Notification.Position.MIDDLE);
 
