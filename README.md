@@ -76,10 +76,4 @@ O projeto foi estruturado seguindo as boas práticas de separação de responsab
 4.  **Acesse no navegador:**
     Abra `http://localhost:8080`
 
-## 👥 Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/SEU_ID_AQUI?v=4" width=115><br><sub>Leonardo Dornelles</sub>](https://github.com/SEU-USUARIO) | [<img src="https://avatars.githubusercontent.com/u/ID_COLEGA?v=4" width=115><br><sub>Nome do Colega 2</sub>](https://github.com/USUARIO-COLEGA) | [<img src="https://avatars.githubusercontent.com/u/ID_COLEGA?v=4" width=115><br><sub>Nome do Colega 3</sub>](https://github.com/USUARIO-COLEGA) |
-| :---: | :---: | :---: |
-
----
 *Projeto desenvolvido para a disciplina de POO - PUCRS.*
