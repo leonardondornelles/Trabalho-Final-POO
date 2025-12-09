@@ -53,7 +53,7 @@ O projeto foi estruturado seguindo as boas práticas de separação de responsab
 
 | Tela Inicial | Cadastro de Usuário |
 |:---:|:---:|
-| ![Home](assets/tela-inical.png) | ![Cadastro](assets/cadastro.png) |
+| ![Home](tf-poo/assets/tela-inical.png) | ![Cadastro](assets/cadastro.png) |
 
 | Relatório Financeiro | Operação de Cancela |
 |:---:|:---:|
