@@ -61,9 +61,9 @@ O projeto foi estruturado seguindo as boas práticas de separação de responsab
 
 ## 🔧 Como Executar
 
-1.  **Clone o repositório:**
+1.  1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
+    git clone [https://github.com/leonardondornelles/Trabalho-Final-POO.git](https://github.com/leonardondornelles/Trabalho-Final-POO.git)
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
