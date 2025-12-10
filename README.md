@@ -63,7 +63,7 @@ O projeto foi estruturado seguindo as boas práticas de separação de responsab
 
 1.  1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/leonardondornelles/Trabalho-Final-POO.git](https://github.com/leonardondornelles/Trabalho-Final-POO.git)
+    git clone https://github.com/leonardondornelles/Smart-Parking-System.git
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
