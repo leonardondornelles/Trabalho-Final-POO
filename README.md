@@ -67,7 +67,7 @@ O projeto foi estruturado seguindo as boas práticas de separação de responsab
     ```
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd NOME-DO-REPO
+    cd Smart-Parking-System
     ```
 3.  **Execute via Maven (Spring Boot):**
     ```bash
